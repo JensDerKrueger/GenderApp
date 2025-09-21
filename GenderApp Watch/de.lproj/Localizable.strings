@@ -1,0 +1,51 @@
+"title.app" = "Geschlechtssuche";
+"input.placeholder" = "Vornamen eingeben";
+"button.send" = "Senden";
+"a11y.send" = "Namen an Genderize senden";
+
+"state.loading" = "Wird gesucht …";
+
+"section.result" = "Ergebnis";
+"label.gender" = "Geschlecht";
+"gender.male" = "Männlich";
+"gender.female" = "Weiblich";
+"gender.unknown" = "Unbekannt";
+
+"label.probability" = "Wahrscheinlichkeit";
+"probability.unavailable" = "Keine Wahrscheinlichkeit verfügbar.";
+"probability.percent" = "%d %%";
+
+"error.empty-name" = "Bitte gib einen Namen ein.";
+"error.invalid-name" = "Ungültiger Name.";
+"error.fetch" = "Abruf fehlgeschlagen. Bitte versuche es erneut.";
+
+"a11y.probability" = "Wahrscheinlichkeit";
+"result.samples-line" = "Basierend auf %lld Stichproben für „%@“.";
+
+"settings.title" = "Einstellungen";
+"settings.general" = "Allgemein";
+"settings.age" = "Alter auch schätzen";
+"settings.nationality" = "Nationalität auch schätzen";
+
+"settings.open" = "Einstellungen öffnen";
+"button.done" = "Fertig";
+
+"label.age" = "Alter";
+"age.unknown" = "Unbekannt";
+"label.nationality" = "Nationalität";
+
+"error.unauthorized" = "Ungültiger API-Schlüssel.";
+"error.payment" = "Abonnement ist nicht aktiv.";
+"error.unprocessable" = "Ungültiger oder fehlender Name-Parameter.";
+"error.too-many" = "Zu viele Anfragen – Limit für heute erreicht.";
+"error.decoding" = "Konnte Serverantwort nicht decodieren";
+
+"info.open" = "Informationen";
+"info.title" = "Info";
+"info.intro" = "Diese App wurde am %@ der %@ entwickelt.";
+"university" = "Universität Duisburg-Essen";
+"university.link" = "https://www.uni-due.de";
+"group" = "Lehrstuhl für Computergrafik und Visualisierung";
+"group.link" = "https://www.cgvis.de";
+"info.datasources" = "Die Daten stammen von den Diensten:";
+"info.disclaimer" = "Die Entwickler dieser App stehen in keinem Zusammenhang mit den genannten Seiten und stellen lediglich eine bequeme Zugriffsmöglichkeit auf die Daten bereit.";

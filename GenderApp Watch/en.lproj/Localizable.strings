@@ -1,0 +1,51 @@
+"title.app" = "Gender Lookup";
+"input.placeholder" = "Enter a first name";
+"button.send" = "Send";
+"a11y.send" = "Send name to Genderize";
+
+"state.loading" = "Looking it up…";
+
+"section.result" = "Result";
+"label.gender" = "Gender";
+"gender.male" = "Male";
+"gender.female" = "Female";
+"gender.unknown" = "Unknown";
+
+"label.probability" = "Probability";
+"probability.unavailable" = "No probability available.";
+"probability.percent" = "%d%%";
+
+"error.empty-name" = "Please enter a name.";
+"error.invalid-name" = "Invalid name.";
+"error.fetch" = "Could not fetch result. Please try again.";
+
+"a11y.probability" = "Probability";
+"result.samples-line" = "Based on %lld samples for “%@”.";
+
+"settings.title" = "Settings";
+"settings.general" = "General";
+"settings.age" = "Also guess Age";
+"settings.nationality" = "Also guess Nationality";
+
+"settings.open" = "Open Settings";
+"button.done" = "Done";
+
+"label.age" = "Age";
+"age.unknown" = "Unknown";
+"label.nationality" = "Nationality";
+
+"error.unauthorized" = "Invalid API key";
+"error.payment" = "Subscription is not active";
+"error.unprocessable" = "Invalid or Missing 'name' parameter";
+"error.too-many" =  "Daily request limit reached";
+"error.decoding" = "Failed to decode server response";
+
+"info.open" = "Open info";
+"info.title" = "Info";
+"info.intro" = "This app was developed at the %@ of %@.";
+"university" = "University of Duisburg-Essen";
+"university.link" = "https://www.uni-due.de/en/index.php";
+"group" = "Computer Graphics and Visualization Group";
+"group.link" = "https://www.cgvis.de";
+"info.datasources" = "The data comes from these services:";
+"info.disclaimer" = "The developers of this app are not affiliated with the mentioned sites and only provide a convenient way to access the data.";
