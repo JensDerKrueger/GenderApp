@@ -5,7 +5,7 @@ It integrates the [Genderize](https://genderize.io), [Agify](https://agify.io), 
 
 ---
 
-## ✨ Features
+## Features
 
 - **Gender prediction** with probability visualization (traffic-light bar).
 - **Age estimation** for the given name.
@@ -18,7 +18,7 @@ It integrates the [Genderize](https://genderize.io), [Agify](https://agify.io), 
 
 ---
 
-## 🛠 Architecture
+## Architecture
 
 - **SwiftUI** for all UI components.
 - **@AppStorage** with a shared `UserDefaults(suiteName:)` for cross-target storage.
@@ -27,7 +27,7 @@ It integrates the [Genderize](https://genderize.io), [Agify](https://agify.io), 
 
 ---
 
-## 🔧 Setup
+## Setup
 
 1. Clone this repository:
    ```bash
